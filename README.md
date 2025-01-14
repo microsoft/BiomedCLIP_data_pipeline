@@ -40,7 +40,7 @@ pip install -r requirements.txt
   volume={2},
   number={1},
   doi={10.1056/AIoa2400640},
-  url={[https://ai.nejm.org/doi/full/10.1056/AIoa2400640](https://ai.nejm.org/doi/full/10.1056/AIoa2400640)}
+  url={https://ai.nejm.org/doi/full/10.1056/AIoa2400640}
 }
 ```
 
