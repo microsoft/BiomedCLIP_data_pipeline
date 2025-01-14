@@ -2,7 +2,7 @@ fire==0.4.0
 ipykernel
 ipython
 matplotlib
-opencv-python==4.8.0.74
+opencv-python==4.8.1.78
 PILLOW
 pytest
 requests
